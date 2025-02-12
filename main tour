@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    
+    <title>Photo tour</title>
+    <link  rel="stylesheet" href="mystyle.css">
+
+</head>
+<body>
+    <header>
+        <h1>Brazil Tour</h1>
+    </header>
+    <nav>
+
+        <a href="main.html">Home/</a>
+        <a href="saopaulo.html">Sao paulo/</a>
+        <a href="riodejaneiro.html">Rio de Janeiro/</a>
+        <a href="curitiba.html">Curitiba/</a>
+        <a href="belohorizonte.html">Belo Horizonte/</a>
+
+    </nav>
+
+    <main>
+        <h1>Get to know my beautiful country</h1>
+        <hr>
+        <h2>Sao Paulo</h2>
+        <h2>Rio De Janeiro</h2>
+        <h2>Curitiba</h2>
+        <h2>Belo Horizonte</h2>
+
+    </main>
+    <footer>
+        This is my beautiful country that i was born and also grew up. So, today i will show you some of the beautiful cities of my country.
+        <p>&copy: </p>
+    </footer>
+</body>
+</html>
