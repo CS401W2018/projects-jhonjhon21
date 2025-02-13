@@ -1,0 +1,23 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: white;
+    background-image: url(ney.jpeg);background-size: 2400px;
+
+
+}
+
+nav a {
+    color: rgb(49, 15, 220);
+    
+}
+
+nav a:hover {
+    color: #640200;
+    background-color: #946f6f;
+  }
+
+
+img {
+    
+    height: 500px;
+    
+}
