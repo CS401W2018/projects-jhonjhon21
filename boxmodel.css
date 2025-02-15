@@ -5,9 +5,13 @@ body {
     color: aliceblue;
 }
 
+nav a {
+    color: antiquewhite;
+}
+
 header {
     background-color: rgba(101, 112, 148, 0.616);
-    padding: 18px;
+    padding: 25px;
     margin: 65px;
     width:200px;
     height: 3.5cm;
@@ -16,7 +20,7 @@ header {
 }
 
 header h1 {
-    border: 5px dotted rgb(7, 156, 255);
+    border: 3px dotted rgb(7, 156, 255);
 }
 
 img {
