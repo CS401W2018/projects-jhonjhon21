@@ -15,6 +15,12 @@ nav a:hover {
     background-color: #946f6f;
   }
 
+  nav a.active {
+    font-weight: bold;
+    text-decoration: underline;
+    background-color: aliceblue;
+  }
+  
 
 img {
     
